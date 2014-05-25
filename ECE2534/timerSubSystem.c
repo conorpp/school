@@ -1,0 +1,5 @@
+/*
+    Just about all microcontrollers have timer subsystems otherwise you cant do crap
+    
+    
+*/

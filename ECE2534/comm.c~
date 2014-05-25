@@ -1,0 +1,10 @@
+/*
+
+		->parallel
+Communication		
+			->async (UART) 
+				-long 
+		->serial
+
+
+*/

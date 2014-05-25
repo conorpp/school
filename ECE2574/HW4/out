@@ -1,0 +1,21 @@
+------Teller line 1------
+
+0: Simulation started
+1: Arrival
+2: Arrival
+3: Arrival
+4: Arrival
+5: Arrival
+11: Departure
+21: Departure
+31: Departure
+41: Departure
+51: Departure
+Total number of customers = 5
+Average amount of time in the bank = 28 minutes
+Maximum amount of time in the bank = 46 minutes
+Average amount of time waiting = 18 minutes
+Maximum amount of time waiting = 36 minutes
+Average length of line = 2.8 customers
+Maximum length of line = 4 customers
+

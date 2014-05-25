@@ -1,0 +1,8 @@
+/*
+    When debugging
+        Set break points
+            step over goes through a whole function
+            step through goes through a function line by line
+        Hover over variable to see current value
+        All registers are global variables
+*/

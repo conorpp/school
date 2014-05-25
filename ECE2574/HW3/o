@@ -1,0 +1,6 @@
+Destination    Flight Route from O    Price 
+J              O, J                   $100
+N              O, J, N                $450
+L              O, J, N, L             $700
+M              O, J, N, L, M          $1300
+O              O, J, N, L, M, O       $1750
